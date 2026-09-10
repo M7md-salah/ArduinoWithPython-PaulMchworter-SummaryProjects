@@ -1,0 +1,10 @@
+This file is A full summery of Paul Mchworter Arduino Tutorials.
+
+Before have any steps to Arduino with python, see these files, learn the code and the hardware connections.
+
+Also if you want to have an understandable view of these tutorials!!
+See Paul Mchworter Tutorials from this link to Youtube!!
+
+The link : https://youtu.be/fJWR7dBuc18
+
+AND HAVE FUN!!
